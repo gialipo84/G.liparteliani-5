@@ -1,0 +1,52 @@
+@font-face {
+    font-family: 'Bebas Neue';
+    src: url('BebasNeue-Regular.eot');
+    src: url('BebasNeue-Regular.eot?#iefix') format('embedded-opentype'),
+        url('BebasNeue-Regular.woff2') format('woff2'),
+        url('BebasNeue-Regular.woff') format('woff'),
+        url('BebasNeue-Regular.ttf') format('truetype'),
+        url('BebasNeue-Regular.svg#BebasNeue-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rowdies';
+    src: url('Rowdies-Bold.eot');
+    src: url('Rowdies-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Rowdies-Bold.woff2') format('woff2'),
+        url('Rowdies-Bold.woff') format('woff'),
+        url('Rowdies-Bold.ttf') format('truetype'),
+        url('Rowdies-Bold.svg#Rowdies-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rowdies';
+    src: url('Rowdies-Light.eot');
+    src: url('Rowdies-Light.eot?#iefix') format('embedded-opentype'),
+        url('Rowdies-Light.woff2') format('woff2'),
+        url('Rowdies-Light.woff') format('woff'),
+        url('Rowdies-Light.ttf') format('truetype'),
+        url('Rowdies-Light.svg#Rowdies-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Play';
+    src: url('Play-Bold.eot');
+    src: url('Play-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Play-Bold.woff2') format('woff2'),
+        url('Play-Bold.woff') format('woff'),
+        url('Play-Bold.ttf') format('truetype'),
+        url('Play-Bold.svg#Play-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+

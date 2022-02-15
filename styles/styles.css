@@ -1,0 +1,170 @@
+.hederi{
+   height: 50px;
+   width: 1440px;
+   border: solid;
+   border-radius: 15px;
+   border-color: green;
+   margin: 0 auto;
+  }
+.natigation1{  
+   display: inline-block;
+   vertical-align: middle;
+   margin-left: 92px;
+   margin-top: 9px;
+    }
+.logo1{
+    vertical-align: middle;
+    margin-top: 9px;
+    padding-left: 20px;
+  }
+.li-home{ 
+	display: inline-block;
+	font-family: 'Rowdies';
+	font-weight: 300;
+	font-size: 11px;
+}
+.li-discovery{ 
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: 27px;
+	font-family: 'Rowdies';
+	font-weight: 300;
+	font-size: 11px;
+}
+.li-photos {
+    display: inline-block;
+	vertical-align: middle;
+	font-family: 'Rowdies';
+	margin-left: 22px;
+	margin-right: 22px;
+	font-size: 11px;
+}
+.li-contact{
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 40px;
+	font-family: 'Rowdies';
+	font-size: 11px;
+}
+.saxe1{
+	vertical-align: middle;}
+
+
+	/*divebis sekcia*/
+
+.saerto-zeda{
+	width: 1160px;
+    margin: 0 auto;
+}
+.div-tba{ 
+    display: inline-block;
+    vertical-align: middle;
+    background-color: #CBD0D3;
+    width: 360px;
+    position: relative;
+ }
+.div-kolga{
+    display: inline-block;
+    vertical-align: middle;
+    background-color: #CBD0D3;
+    width: 360px;
+    position: relative;
+    margin-left: 40px;
+    margin-right: 40px;
+    }
+.div-tovli{ 
+    display: inline-block;
+    vertical-align:middle;
+    background-color: #CBD0D3;
+    width: 360px;
+    position: relative;
+}
+.div-text{
+    display: inline-block;
+    vertical-align: middle;
+    width: 360px;
+    height: 180px;
+    margin: 0 auto;
+
+  }
+.kveda-saerto-marcxena {
+   display: inline-block;
+   vertical-align: middle;
+   width: 760px;
+}
+.kveda-saerto-marjvena{
+   display: inline-block;
+   vertical-align: top;
+   height: 896px;
+   margin-left: 40px;
+}
+.marcxena-shida{
+  position: relative;
+  display: inline-block;
+  margin-bottom: 40px;
+}
+.marcxena-shida1{
+   position: relative;
+   display: inline-block;
+  }
+.patara-shua{
+   margin-top: 102px;
+   margin-bottom: 102px;
+   position: relative;
+ }
+ .patara-zeda{
+    position: relative;
+ }
+ .patara-kveda{
+    position: relative;
+ }
+/*textebis sekcia*/
+.happaning{
+    margin-top: 25px;
+    margin-bottom: 40px;
+    font-family: 'Rowdies';
+    font-weight: bold;
+    font-size: 24px;
+    color: #CBD0D3;
+    
+ }
+ .happaning-2{
+    margin-top: 58px;
+    margin-bottom: 40px;
+    font-family: 'Rowdies';
+    font-weight: bold;
+    font-size: 24px;
+ }
+.text-p{ 
+    width: 280px;
+    margin: 0 auto;
+    margin-top: 70px ;
+    font-family: 'Bebas Neue';
+    color: #246ACE;
+ }
+.box-satauri{
+	position: absolute;
+	top: 24px;
+	left: 40px;
+	font-family: 'Play';
+	font-weight: bold;
+	color: #FF4D4D;
+}
+.div-satauri{
+   position: absolute;
+   right: 50px;
+   bottom: 40px;
+   color: white;
+   font-family: 'Play';
+	font-weight: bold;
+	color: #FF4D4D;
+}
+.marcxenis-satauri{
+   position: absolute;
+   top: 18px;
+   left: 40px;
+   color: white;
+   font-family: 'Play';
+	font-weight: bold;
+	color: #FF4D4D;
+}
